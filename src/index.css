@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.Header
+{
+  background-color: red;
+  width: 100%;
+  height: 50px;
+  position: absolute;
+  
+}
+.Header ul li{
+float: right;
+list-style: none;
+padding-right: 30px;
+}
+.Footer{
+  position: relative;
+  margin-top: 400px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 50px
+}
+.Home,.Faq,.AboutUs,.NewUser,.Login,.Services
+{
+  padding-top: 200px;
+  text-align: center  
+}
